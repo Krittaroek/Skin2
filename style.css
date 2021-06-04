@@ -10044,11 +10044,11 @@ h6,
 }
 
 .teamsize{
-  width: 1200px;
+  width: 75%;
   height: auto;
   position: relative;
-  margin-top: 20px;
-  margin-bottom: 0px;
+  margin-top: 0px;
+  margin-bottom: 20px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -10058,7 +10058,7 @@ h6,
   position: absolute;
   display: flex;
   align-items: center;
-  justify-content: left;
+  justify-content: center;
   top: 0px;
   right: 0px;
   bottom: 0px;
