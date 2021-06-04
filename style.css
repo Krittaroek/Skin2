@@ -760,7 +760,7 @@ pre code {
 }
 
 .row {
-  display: flex;
+  display: flex !important;
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
