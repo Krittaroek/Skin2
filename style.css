@@ -10045,31 +10045,27 @@ h6,
 
 .teamsize{
   width: 400px;
-  height: 200px;
-  margin: 30px;
+  height: 400px;
 }
 
+
 .team-item .team-overlay {
-  position: relative;
+  position: absolute;
   display: flex;
-  padding: 5px;
+  align-items: center;
+  justify-content: left;
   top: 0px;
-  bottom: 0px;
   right: 0px;
+  bottom: 0px;
   left: 0px;
   border-radius: 4px;
   background: #222429;
   transition: .5s;
   opacity: 0;
-  
-  
-}
-  
-  
 }
 
 .team-item:hover .team-overlay {
-  opacity: 1;
+  opacity: 0.8;
 }
 
 .testimonial-carousel .owl-dots {
