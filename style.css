@@ -4146,7 +4146,7 @@ input[type="button"].btn-block {
 }
 
 .nav-link {
-  display: block;
+  display: flex;
   padding: 0.5rem 1rem;
 }
 
