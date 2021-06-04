@@ -10046,6 +10046,7 @@ h6,
 .teamsize{
   width: 400px;
   height: auto;
+  position: relative;
 }
 
 
