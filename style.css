@@ -10065,7 +10065,7 @@ h6,
 }
 
 .team-item:hover .team-overlay {
-  opacity: 0.8;
+  opacity: 1;
 }
 
 .testimonial-carousel .owl-dots {
