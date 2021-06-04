@@ -10043,8 +10043,14 @@ h6,
   background: #222429;
 }
 
+.teamsize{
+  width: 400px;
+  height: 200px;
+  margin: 30px;
+}
+
 .team-item .team-overlay {
-  position: absolute;
+  position: relative;
   display: flex;
   padding: 5px;
   top: 0px;
@@ -10055,6 +10061,9 @@ h6,
   background: #222429;
   transition: .5s;
   opacity: 0;
+  
+  
+}
   
   
 }
